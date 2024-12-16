@@ -1,4 +1,4 @@
-## Hi there 👋
+## Yo 👋
 🌱 I’m currently learning .net mvc in vscode
 ⚡ Fun fact: dont know how to code but ill try anyway 😄
 <!--
