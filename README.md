@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+🌱 I’m currently learning .net mvc in vscode
+⚡ Fun fact: dont know how to code but ill try anyway 😄
 <!--
 **0nlooker-max/0nlooker-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
