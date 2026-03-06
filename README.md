@@ -1,5 +1,6 @@
 ![Header](github-header-banner.png)
 ## I'm RICKSEL👋
+[![LinkedIn](https://img.shields.io)](http://www.linkedin.com/in/pagatpat-ricksel-69624a30b)
 - 🌱 I’m currently learning javascript and im planing to go with golang ...
 - ⚡ Fun fact: dont know how to code but ill try anyway 😄 ...
 <!--
