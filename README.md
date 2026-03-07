@@ -24,7 +24,7 @@
 
 🔹 **MediClinic Capstone**  
 A healthcare management system project.
-[View My MediClinic Project](https://github.com/onlooker-max/MediClinicCapstoneP)
+[View My MediClinic Project](https://github.com/MediclinicCapstoneP/MediClinic_Repo.git)
 
 🔹 **Job Allocation API**  
 An API built using C# for managing job allocation.
