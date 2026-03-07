@@ -1,6 +1,5 @@
 ![Header](github-header-banner.png)
 
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/pagatpat-ricksel-69624a30b/)
 
 <h1 align="center">Hi 👋, I'm Ricksel Pagatpat</h1>
 <h3 align="center">Aspiring Web Developer</h3>
@@ -39,10 +38,8 @@ My first project using ReactJS.
 ## 📫 Connect With Me
 
 LinkedIn:  
-https://www.linkedin.com/in/pagatpat-ricksel
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/pagatpat-ricksel-69624a30b/)
 
-GitHub:  
-https://github.com/onlooker-max
 
 ---
 
