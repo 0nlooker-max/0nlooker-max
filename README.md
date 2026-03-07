@@ -1,7 +1,5 @@
 ![Header](github-header-banner.png)
 
-
-<h1 align="center">Hi 👋, I'm Ricksel Pagatpat</h1>
 <h3 align="center">Aspiring Web Developer</h3>
 
 ---
